@@ -2,6 +2,8 @@
 
 ## 📈 Current states
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpon-dey&theme=whatsapp-dark)](https://git.io/streak-stats)
+
 # Overview
 
 Here are some ideas to get you started:
