@@ -2,7 +2,10 @@
 
 ## 📈 Current states
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpon-dey&theme=dark&card_width=550&background=0%2C000000%2C00053C&stroke=EBEBEB&border=4A4A4A&ring=D5D8E1&fire=EB8702&currStreakNum=EBEBEB&currStreakLabel=EB8702&sideLabels=C5C5C5)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpon-dey&theme=dark&card_width=550&background=0%2C000000%2C00053C&stroke=EBEBEB&border=4A4A4A&ring=D5D8E1&fire=EB8702&currStreakNum=EBEBEB&currStreakLabel=EB8702&sideLabels=C5C5C5)](https://git.io/streak-stats) -->
+<div align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arpon-dey&theme=dark&card_width=550&background=0%2C000000%2C00053C&stroke=EBEBEB&border=4A4A4A&ring=D5D8E1&fire=EB8702&currStreakNum=EBEBEB&currStreakLabel=EB8702&sideLabels=C5C5C5)" alt="GitHub Streak" />
+</div>
 
 # Overview
 
