@@ -17,11 +17,13 @@
 ## 🔍Find me on
 
 <div align='center'>
-<a href='https://www.linkedin.com/in/arpon-dey-70ab81205/' style='padding: 10px 20px; background: linear-gradient(90deg, #000000, #0C3D6F); color: #ffffff; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold;'>LinkedIn </a>
-<a href='https://web.facebook.com/arpondeydurjoy.durjoy/' style='padding: 10px 20px; background: linear-gradient(90deg, #000000, #0C3D6F); color: #ffffff; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold;'>Facebook</a>
+
+[![An old rock in the desert](https://i.postimg.cc/SQVNjHLy/Blue-Modern-Game-Button-Twitch-Panel-2.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/arpon-dey-70ab81205/)
+[![An old rock in the desert](https://i.postimg.cc/VkV7KsjK/Blue-Modern-Game-Button-Twitch-Panel-1.png "Shiprock, New Mexico by Beau Rogers")](https://web.facebook.com/arpondeydurjoy.durjoy/)
+
 </div>
 
-## Technologies
+## 🚀 Technologies I use
 
 <p align="center">
   <a href="https://skillicons.dev">
