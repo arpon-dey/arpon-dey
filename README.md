@@ -1,6 +1,8 @@
-### Hi there 👋
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/arpon-dey/arpon-dey/main/gitBg.jpg "San Juan Mountains")
 
+## 📈 Current states
 
+# Overview
 
 Here are some ideas to get you started:
 
@@ -12,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
