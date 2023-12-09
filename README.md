@@ -20,3 +20,13 @@
 <a href='https://www.linkedin.com/in/arpon-dey-70ab81205/' style='padding: 10px 20px; background: linear-gradient(90deg, #000000, #0C3D6F); color: #ffffff; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold;'>LinkedIn </a>
 <a href='https://web.facebook.com/arpondeydurjoy.durjoy/' style='padding: 10px 20px; background: linear-gradient(90deg, #000000, #0C3D6F); color: #ffffff; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold;'>Facebook</a>
 </div>
+
+## Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" /> </br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,firebase" /> </br>
+    <img src="https://skillicons.dev/icons?i=github,nodejs,express,mongodb" />
+  </a>
+</p>
