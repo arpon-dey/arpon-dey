@@ -1,12 +1,12 @@
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/arpon-dey/arpon-dey/main/gitBg.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/arpon-dey/arpon-dey/main/assets/cover.jpg "San Juan Mountains")
 
 ## 🌟 About me
 
 - 👋 I am a **web developer** with a passion for building websites.
+- Skilled in HTML, CSS, Tailwind, JavaScript, ReactJS, Node.js, Express.js, MongoDB, and Git. ✨
 - 💻 Dedicated to continuous learning and growth in the field of web development.
 - 💡Eager to contribute my skills and creativity to dynamic projects and teams.
-- 🚀 Seeking job opportunities. Proficient in MERN stack. Let's innovate together! 🌐✨
-- 👨‍💻 Web Developer | Skilled in HTML, CSS3, Tailwind, JavaScript, ReactJS, Node.js, Express.js, MongoDB, and Git. ✨
+- 🚀 Seeking job opportunities. Proficient in MERN stack. Let's innovate together! ✨
 
 ## 📈 Current stats
 
