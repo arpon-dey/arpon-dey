@@ -1,6 +1,6 @@
 <!-- ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/arpon-dey/arpon-dey/main/assets/cover.jpg "San Juan Mountains") -->
 
-![An old rock in the desert](/assets/intro.gif "Shiprock, New Mexico by Beau Rogers")
+![An old rock in the desert](/assets/intro.gif)
 
 ## 🌟 About me
 
